@@ -1,2 +1,3 @@
 # MachineLearning-Projects
-This folder the 
+This folder contains all my ML personal projects.
+
